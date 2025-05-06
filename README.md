@@ -1,7 +1,7 @@
-👋 Hello there! I'm Simpal kumari, a student with a passion for coding. 
+👋 Hello there! I'm Simpal Kumari, a student passionate about Cybersecurity and solving real-world security challenges.
 
-🚀 I thrive on turning ideas into reality through code and enjoy tackling challenges that push my boundaries. My main focus is on how to solve new problem, and I'm always eager to learn and explore new technologies in this full of exciting world.
+🚀 I'm always exploring new techniques in Ethical Hacking, SOC operations, and Cloud Security. My main focus is on building secure systems, simulating attacks, and enhancing detection engineering to create safer digital environments.
 
-🌱 When I'm not coding, you can find me sleeping and travelling, or contributing to open-source projects like Database managenment and solving problems. Collaboration is essential to me, and I love being part of the vibrant developer community.
+🌱 When I'm not working on cybersecurity, I enjoy coding, solving security problems, and contributing to open-source projects. Collaboration is key for me, and I love working with the vibrant cybersecurity community.
 
-💡 Let's connect and collaborate on exciting projects together!. I'm looking forward to making a positive impact through technology! 🌟
+💡 Let’s connect and work together on exciting security projects! I’m eager to contribute and learn more every day. Let’s make the digital world safer! 🌟
